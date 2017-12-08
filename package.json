@@ -6,6 +6,7 @@
     "cors": "~2.8.3",
     "express": "~4.15.3",
     "fh-mbaas-api": "~8.1.1",
+    "fhlog": "^0.13.0",
     "request": "2.81.0"
   },
   "devDependencies": {

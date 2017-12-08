@@ -1,5 +1,6 @@
 {
     "asi"           : true,
+    "esversion"     : 6,
     "camelcase"     : false,
     "bitwise"       : false,  
     "unused"        : true,
